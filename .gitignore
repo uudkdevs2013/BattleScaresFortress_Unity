@@ -1,7 +1,10 @@
 #################
 ## Custom
 #################
+BattleScaresFortress/*.*
 BattleScaresFortress/Library
+BattleScaresFortress/Temp/
+BattleScaresFortress/ProjectSettings/
 
 #################
 ## Eclipse
