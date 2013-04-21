@@ -7,6 +7,10 @@ BattleScaresFortress/Library
 ## Eclipse
 #################
 
+BattleScaresFortress/Temp/
+BattleScaresFortress/ProjectSettings/
+BattleScaresFortress/Assets/
+
 *.pydevproject
 .project
 .metadata
