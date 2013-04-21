@@ -10,10 +10,6 @@ BattleScaresFortress/ProjectSettings/
 ## Eclipse
 #################
 
-BattleScaresFortress/Temp/
-BattleScaresFortress/ProjectSettings/
-BattleScaresFortress/Assets/
-
 *.pydevproject
 .project
 .metadata
@@ -60,7 +56,6 @@ local.properties
 *_p.c
 *.ilk
 *.meta
-*.obj
 *.pch
 *.pdb
 *.pgc
